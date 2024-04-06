@@ -8,7 +8,8 @@ const app = express();
 
 const fs = require('fs');
 
-const dataFilePath = './data.json';
+const path = require('path');
+const dataFilePath = path.join(__dirname, 'data.json');
 
 app.use(cors());
 
