@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "subname": "Hulu",
+    "substatus": "paid"
+  },
+  {
+    "id": 2,
+    "subname": "Disney+",
+    "substatus": "paid"
+  },
+  {
+    "id": 3,
+    "subname": "AppleTV+",
+    "substatus": "unpaid"
+  },
+  {
+    "id": 4,
+    "subname": "YouTube Premium",
+    "substatus": "unpaid"
+  },
+  {
+    "id": 6,
+    "subname": "Spotify",
+    "substatus": "unpaid"
+  },
+  {
+    "id": 7,
+    "subname": "Apple Music",
+    "substatus": "unpaid"
+  },
+  {
+    "id": 8,
+    "subname": "Amazon Prime",
+    "substatus": "unpaid"
+  },
+  {
+    "id": 9,
+    "subname": "Adobe Cloud",
+    "substatus": "paid"
+  },
+  {
+    "id": 10,
+    "subname": "Evernote Premium",
+    "substatus": "unpaid"
+  },
+  {
+    "id": 11,
+    "subname": "Remote Launch",
+    "substatus": "unpaid"
+  },
+  {
+    "id": 12,
+    "subname": "Adobe Photoshop",
+    "substatus": "paid"
+  },
+  {
+    "id": 13,
+    "subname": "Adobe Lighteffects",
+    "substatus": "paid"
+  },
+  {
+    "id": 14,
+    "subname": "Autodesk Maya",
+    "substatus": "unpaid"
+  },
+  {
+    "id": 15,
+    "subname": "Autodesk Autocad",
+    "substatus": "paid"
+  },
+  {
+    "id": 16,
+    "subname": "Autodesk Fusion",
+    "substatus": "paid"
+  },
+  {
+    "id": 17,
+    "subname": "Autodesk Revit",
+    "substatus": "unpaid"
+  },
+  {
+    "id": 18,
+    "subname": "Autodesk 3DS Max",
+    "substatus": "unpaid"
+  },
+  {
+    "id": 19,
+    "subname": "Autodesk Inventor",
+    "substatus": "paid"
+  },
+  {
+    "id": 20,
+    "subname": "Autodesk Shortgrid",
+    "substatus": "unpaid"
+  }
+]
